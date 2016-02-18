@@ -1,0 +1,21 @@
+{
+	"name": "antons/switchfield",
+	"type": "silverstripe-module",
+	"description": "A simple iOS switch alternative for the CheckboxField in SilverStripe",
+	"homepage": "https://github.com/antons-/switchfield",
+	"keywords": ["silverstripe", "switch", "toggle", "togglefield", "switch", "checkbox", "checkboxfield"],
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Anton Smith",
+			"email": "anton@antons.io",
+			"homepage": "https://antons.io/"
+		}
+	],
+	"support": {
+		"issues": "https://github.com/antons-/switchfield/issues"
+	},
+	"require": {
+		"silverstripe/framework": "3.2.*"
+	}
+}
