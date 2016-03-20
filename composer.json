@@ -16,6 +16,6 @@
 		"issues": "https://github.com/antons-/switchfield/issues"
 	},
 	"require": {
-		"silverstripe/framework": "3.2.*"
+		"silverstripe/framework": "~3.2"
 	}
 }
