@@ -3,6 +3,7 @@
         $('.cms-edit-form .field.switch').entwine({
             onmatch: function () {
                 new Switchery(this.find('.middleColumn input[type=checkbox]')[0]);
+                this._super(); // 'bubble' up
             }
         });
     });
